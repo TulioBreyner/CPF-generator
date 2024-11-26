@@ -1,2 +1,3 @@
-# CPF-generator
-A valid CPF generator maked in Python
+# 🆔 CPF-generator  
+
+A **valid CPF generator** made in Python, simple and fast! 🚀  
